@@ -1,0 +1,7 @@
+requests>=2.32
+rasterio>=1.4
+numpy>=2.4
+pandas>=3.0
+matplotlib>=3.10
+notebook>=7.4
+ipykernel>=7.1

@@ -1,0 +1,3 @@
+﻿lago,fecha,satelite,nubosidad_oficial_pct,nubosidad_catalogo_pct,cobertura_bbox_pct,pixeles_agua_validos,cianobacteria_promedio,ndvi_promedio,ndwi_promedio,item_principal
+Amatitlán,2026-06-19,Sentinel-2A,13.0,13.000624,99.99967891086564,31029,67.48597717285156,-0.1207027360796928,0.5070450305938721,S2A_15PYS_20260619_0_L2A
+Atitlán,2025-01-18,Sentinel-2B,0.02,0.021865,99.99370143996686,297519,9.933526992797852,0.2945796549320221,0.8278345465660095,S2B_15PXS_20250118_0_L2A

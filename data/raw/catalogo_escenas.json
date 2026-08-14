@@ -1,0 +1,373 @@
+{
+  "generated_at_utc": "2026-08-14T01:26:35.795389+00:00",
+  "source": "https://earth-search.aws.element84.com/v1/search",
+  "collection": "sentinel-2-l2a",
+  "records": [
+    {
+      "lake": "Amatitlán",
+      "date": "2025-01-28",
+      "official_cloud_cover": 0.06,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PYR_20250128_0_L2A",
+          "datetime": "2025-01-28T16:39:46.801000Z",
+          "cloud_cover": 0.064987
+        },
+        {
+          "id": "S2B_15PYS_20250128_0_L2A",
+          "datetime": "2025-01-28T16:39:32.047000Z",
+          "cloud_cover": 13.532746
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2025-04-15",
+      "official_cloud_cover": 0.09,
+      "satellite": "Sentinel-2A",
+      "items": [
+        {
+          "id": "S2A_15PYR_20250415_0_L2A",
+          "datetime": "2025-04-15T16:39:57.081000Z",
+          "cloud_cover": 0.085006
+        },
+        {
+          "id": "S2A_15PYS_20250415_0_L2A",
+          "datetime": "2025-04-15T16:39:42.326000Z",
+          "cloud_cover": 5.503734
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2025-04-28",
+      "official_cloud_cover": 1.03,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PYR_20250428_0_L2A",
+          "datetime": "2025-04-28T16:39:45.683000Z",
+          "cloud_cover": 1.033736
+        },
+        {
+          "id": "S2B_15PYS_20250428_0_L2A",
+          "datetime": "2025-04-28T16:39:30.928000Z",
+          "cloud_cover": 12.332322
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2025-11-24",
+      "official_cloud_cover": 0.5,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PYR_20251124_0_L2A",
+          "datetime": "2025-11-24T16:39:37.665000Z",
+          "cloud_cover": 0.499355
+        },
+        {
+          "id": "S2B_15PYS_20251124_0_L2A",
+          "datetime": "2025-11-24T16:39:22.907000Z",
+          "cloud_cover": 15.084247
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2026-01-08",
+      "official_cloud_cover": 0.77,
+      "satellite": "Sentinel-2C",
+      "items": [
+        {
+          "id": "S2C_15PYR_20260108_1_L2A",
+          "datetime": "2026-01-08T16:39:44.127000Z",
+          "cloud_cover": 0.767957
+        },
+        {
+          "id": "S2C_15PYS_20260108_0_L2A",
+          "datetime": "2026-01-08T16:39:33.819000Z",
+          "cloud_cover": 1.202464
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2026-02-02",
+      "official_cloud_cover": 0.39,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PYS_20260202_0_L2A",
+          "datetime": "2026-02-02T16:39:24.279000Z",
+          "cloud_cover": 0.392716
+        },
+        {
+          "id": "S2B_15PYR_20260202_0_L2A",
+          "datetime": "2026-02-02T16:39:39.030000Z",
+          "cloud_cover": 0.65526
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2026-02-07",
+      "official_cloud_cover": 0.02,
+      "satellite": "Sentinel-2C",
+      "items": [
+        {
+          "id": "S2C_15PYR_20260207_0_L2A",
+          "datetime": "2026-02-07T16:39:44.869000Z",
+          "cloud_cover": 0.01704
+        },
+        {
+          "id": "S2C_15PYS_20260207_0_L2A",
+          "datetime": "2026-02-07T16:39:30.117000Z",
+          "cloud_cover": 23.733166
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2026-03-29",
+      "official_cloud_cover": 0.01,
+      "satellite": "Sentinel-2C",
+      "items": [
+        {
+          "id": "S2C_15PYR_20260329_0_L2A",
+          "datetime": "2026-03-29T16:39:45.426000Z",
+          "cloud_cover": 0.014516
+        },
+        {
+          "id": "S2C_15PYS_20260329_0_L2A",
+          "datetime": "2026-03-29T16:39:30.672000Z",
+          "cloud_cover": 6.583694
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2026-04-13",
+      "official_cloud_cover": 0.09,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PYR_20260413_0_L2A",
+          "datetime": "2026-04-13T16:39:41.975000Z",
+          "cloud_cover": 0.087289
+        },
+        {
+          "id": "S2B_15PYS_20260413_0_L2A",
+          "datetime": "2026-04-13T16:39:27.218000Z",
+          "cloud_cover": 10.611461
+        }
+      ]
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2026-04-28",
+      "official_cloud_cover": 4.96,
+      "satellite": "Sentinel-2C",
+      "items": [],
+      "warning": "No se encontró Sentinel-2C para 2026-04-28 en el área solicitada."
+    },
+    {
+      "lake": "Amatitlán",
+      "date": "2026-06-19",
+      "official_cloud_cover": 13.0,
+      "satellite": "Sentinel-2A",
+      "items": [
+        {
+          "id": "S2A_15PYS_20260619_0_L2A",
+          "datetime": "2026-06-19T16:39:45.648000Z",
+          "cloud_cover": 13.000624
+        },
+        {
+          "id": "S2A_15PYR_20260619_0_L2A",
+          "datetime": "2026-06-19T16:40:00.400000Z",
+          "cloud_cover": 66.602933
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2025-01-18",
+      "official_cloud_cover": 0.02,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PXS_20250118_0_L2A",
+          "datetime": "2025-01-18T16:39:31.643000Z",
+          "cloud_cover": 0.021865
+        },
+        {
+          "id": "S2B_15PYS_20250118_0_L2A",
+          "datetime": "2025-01-18T16:39:28.841000Z",
+          "cloud_cover": 0.990514
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2025-04-13",
+      "official_cloud_cover": 0.54,
+      "satellite": "Sentinel-2C",
+      "items": [],
+      "warning": "No se encontró Sentinel-2C para 2025-04-13 en el área solicitada."
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2025-05-13",
+      "official_cloud_cover": 4.37,
+      "satellite": "Sentinel-2C",
+      "items": [
+        {
+          "id": "S2C_15PXS_20250513_0_L2A",
+          "datetime": "2025-05-13T16:39:49.445000Z",
+          "cloud_cover": 4.371482
+        },
+        {
+          "id": "S2C_15PYS_20250513_0_L2A",
+          "datetime": "2025-05-13T16:39:46.652000Z",
+          "cloud_cover": 15.26213
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2025-07-17",
+      "official_cloud_cover": 3.57,
+      "satellite": "Sentinel-2A",
+      "items": [
+        {
+          "id": "S2A_15PXS_20250717_1_L2A",
+          "datetime": "2025-07-17T16:49:47.028000Z",
+          "cloud_cover": 3.565849
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2025-11-21",
+      "official_cloud_cover": 3.15,
+      "satellite": "Sentinel-2A",
+      "items": [
+        {
+          "id": "S2A_15PXS_20251121_0_L2A",
+          "datetime": "2025-11-21T16:39:48.972000Z",
+          "cloud_cover": 3.150875
+        },
+        {
+          "id": "S2A_15PYS_20251121_0_L2A",
+          "datetime": "2025-11-21T16:39:46.177000Z",
+          "cloud_cover": 8.332248
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2025-12-29",
+      "official_cloud_cover": 3.17,
+      "satellite": "Sentinel-2C",
+      "items": [
+        {
+          "id": "S2C_15PYS_20251229_0_L2A",
+          "datetime": "2025-12-29T16:39:36.878000Z",
+          "cloud_cover": 3.172113
+        },
+        {
+          "id": "S2C_15PXS_20251229_0_L2A",
+          "datetime": "2025-12-29T16:39:39.648000Z",
+          "cloud_cover": 16.763645
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2026-02-12",
+      "official_cloud_cover": 0.04,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PXS_20260212_0_L2A",
+          "datetime": "2026-02-12T16:39:26.208000Z",
+          "cloud_cover": 0.044695
+        },
+        {
+          "id": "S2B_15PYS_20260212_0_L2A",
+          "datetime": "2026-02-12T16:39:23.397000Z",
+          "cloud_cover": 21.223652
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2026-03-24",
+      "official_cloud_cover": 3.17,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PXS_20260324_0_L2A",
+          "datetime": "2026-03-24T16:39:29.367000Z",
+          "cloud_cover": 3.174446
+        },
+        {
+          "id": "S2B_15PYS_20260324_1_L2A",
+          "datetime": "2026-03-24T16:39:26.586000Z",
+          "cloud_cover": 24.999578
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2026-04-13",
+      "official_cloud_cover": 0.01,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PXS_20260413_0_L2A",
+          "datetime": "2026-04-13T16:39:29.998000Z",
+          "cloud_cover": 0.011676
+        },
+        {
+          "id": "S2B_15PYS_20260413_0_L2A",
+          "datetime": "2026-04-13T16:39:27.218000Z",
+          "cloud_cover": 10.611461
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2026-04-28",
+      "official_cloud_cover": 4.96,
+      "satellite": "Sentinel-2C",
+      "items": [
+        {
+          "id": "S2C_15PXS_20260428_0_L2A",
+          "datetime": "2026-04-28T16:39:33.030000Z",
+          "cloud_cover": 9.831088
+        }
+      ]
+    },
+    {
+      "lake": "Atitlán",
+      "date": "2026-07-22",
+      "official_cloud_cover": 4.02,
+      "satellite": "Sentinel-2B",
+      "items": [
+        {
+          "id": "S2B_15PXS_20260722_0_L2A",
+          "datetime": "2026-07-22T16:39:32.699000Z",
+          "cloud_cover": 4.023169
+        },
+        {
+          "id": "S2B_15PYS_20260722_0_L2A",
+          "datetime": "2026-07-22T16:39:29.912000Z",
+          "cloud_cover": 15.506129
+        }
+      ]
+    }
+  ]
+}

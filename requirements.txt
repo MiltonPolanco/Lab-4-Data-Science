@@ -5,3 +5,4 @@ pandas>=3.0
 matplotlib>=3.10
 notebook>=7.4
 ipykernel>=7.1
+folium>=0.19

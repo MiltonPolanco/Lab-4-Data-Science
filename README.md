@@ -5,7 +5,7 @@
 - Milton Polanco
 - Osman de León
 
-## Avance
+## Parte 1
 
 Esta entrega contiene los ejercicios 1 al 4 del laboratorio:
 
@@ -29,4 +29,28 @@ jupyter notebook notebooks/laboratorio_4_avance.ipynb
 
 El notebook reutiliza `data/processed/resumen_temporal.csv` si ya existe. Para repetir la consulta de las imágenes se debe cambiar `VOLVER_A_DESCARGAR` a `True`.
 
-Los ejercicios 5 al 8 todavía no forman parte de esta entrega.
+## Parte 2 - avance
+
+El directorio `parte_2` contiene los ejercicios 1, 2 y 3 solicitados para el
+avance del 20 de agosto de 2026:
+
+1. construcción y limpieza del conjunto de datos por píxel;
+2. definición y análisis de la variable respuesta binaria;
+3. selección de variables predictoras sin fuga de información.
+
+El conjunto final tiene 1,781,186 observaciones válidas y está guardado como
+`parte_2/data/processed/dataset_pixeles.parquet`. El notebook ejecutado se
+encuentra en `parte_2/notebooks/laboratorio_4_parte_2_avance.ipynb` y el informe
+en `parte_2/reports/avance_laboratorio_4_parte_2.pdf`.
+
+Para reconstruir los datos y el análisis:
+
+```bash
+python -m parte_2.src.preparacion
+python -m parte_2.src.analisis
+jupyter notebook parte_2/notebooks/laboratorio_4_parte_2_avance.ipynb
+```
+
+Los archivos intermedios se guardan por lago y fecha para que la descarga pueda
+reanudarse. No se incluyen en Git; el archivo Parquet final y los resúmenes sí
+forman parte del avance.
